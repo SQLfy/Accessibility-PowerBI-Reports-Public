@@ -1,6 +1,6 @@
 **Preface**  
 This is 100% a reference to Megan Longaria's Color Palletes that are a part of her Blog Posts on Accessibility.
-I'm using this as a reference to not forget this valuable resource.
+I'm using my GitHub repo as a reference to not forget this valuable resource.
 https://github.com/mlongoria/PBIColorPalettes
 
 **PBI Color Palettes**   
